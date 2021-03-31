@@ -48,4 +48,22 @@ front/
 - Bootstarap
 
 ## Screenshot
+![alt text][page1]
+![alt text][page2]
+![alt text][page3]
+![alt text][page4]
+![alt text][page5]
+![alt text][page6]
+![alt text][page7]
+![alt text][page8]
+![alt text][page9]
 
+[page1]: https://github.com/mariayurchenko/Cinema/blob/main/foto/1.jpg 
+[page2]: https://github.com/mariayurchenko/Cinema/blob/main/foto/2.jpg 
+[page3]: https://github.com/mariayurchenko/Cinema/blob/main/foto/3.jpg 
+[page4]: https://github.com/mariayurchenko/Cinema/blob/main/foto/4.jpg 
+[page5]: https://github.com/mariayurchenko/Cinema/blob/main/foto/5.jpg 
+[page6]: https://github.com/mariayurchenko/Cinema/blob/main/foto/6.jpg 
+[page7]: https://github.com/mariayurchenko/Cinema/blob/main/foto/7.jpg 
+[page8]: https://github.com/mariayurchenko/Cinema/blob/main/foto/8.jpg 
+[page9]: https://github.com/mariayurchenko/Cinema/blob/main/foto/9.jpg 
